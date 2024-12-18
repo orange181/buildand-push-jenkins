@@ -1,6 +1,6 @@
 node {
    
-   def PROJECT="ludo-forma"
+   def PROJECT="my-app"
    def IMAGE="$PROJECT/app:3.5"
    
     stage('Clone') {
